@@ -3,6 +3,7 @@
   "displayName": "Epistolary Fiction",
   "version": "0.1.0",
   "description": "Toolbox for writing epistolary fiction in Obsidian.",
+  "license": "GPLv3",
   "type": "module",
   "author": {
     "name": "Victoria Rodriguez",
