@@ -1,0 +1,21 @@
+{
+  "name": "@toridoriv/obsidian-epistolary-fiction",
+  "displayName": "Epistolary Fiction",
+  "version": "0.1.0",
+  "description": "Toolbox for writing epistolary fiction in Obsidian.",
+  "type": "module",
+  "author": {
+    "name": "Victoria Rodriguez",
+    "email": "vrodriguezfe@icloud.com",
+    "url": "https://github.com/toridoriv"
+  },
+  "homepage": "https://github.com/toridoriv/obsidian-epistolary-fiction",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toridoriv/obsidian-epistolary-fiction.git"
+  },
+  "bugs": {
+    "url": "https://github.com/toridoriv/obsidian-epistolary-fiction/issues",
+    "email": "vrodriguezfe@icloud.com"
+  }
+}
